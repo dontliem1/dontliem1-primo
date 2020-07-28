@@ -1,2 +1,1 @@
-# dontliem1-primo
-Тестовый репозиторий для primo.af
+# Built with [primo](https://primo.so)
